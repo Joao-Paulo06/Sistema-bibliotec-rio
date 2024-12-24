@@ -22,7 +22,7 @@ Projeto acadêmico desenvolvido por um grupo de amigos, Java foi a linguagem uti
 
   
   <h3 align="left">Ferramentas:</h3>
-  <img align="center" alt="Netebeans logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Netebeans logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg">
   <img align="center" alt="Sistema-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  
 </div>
