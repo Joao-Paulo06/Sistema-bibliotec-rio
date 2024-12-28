@@ -1,6 +1,6 @@
 <h1 align="left">Sistema Bibliotecário</h1>
 
-<img align="right" width="200px" src="">
+<img align="right" width="200px" src="[url=https://postimg.cc/cgnzSvy5][img]https://i.postimg.cc/cgnzSvy5/photo-2024-12-28-13-28-07.jpg[/img][/url]">
 <img align="right" width="200px" src="">
 <img align="right" width="200px" src="">
 <img align="right" width="200px" src="">
