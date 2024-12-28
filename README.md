@@ -46,6 +46,10 @@ Projeto acadêmico desenvolvido por um grupo de amigos, Java foi a linguagem uti
   
   
 <div style="display: inline_block">
+</br>
+</br>
+</br>
+</br>
   
   <h3 align="left">Habilidades principais:</h3>
   <img align="center" alt="Sistema-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
