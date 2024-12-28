@@ -4,13 +4,17 @@
 </br>
 Projeto acadêmico desenvolvido por um grupo de amigos, Java foi a linguagem utilizada para o desenvolvimento do projeto.
 </br>
+</br>
+</br>
+</br>
+</br>
 
 <img align="center" width="200px" src="https://i.postimg.cc/Qt4Zc76s/photo-2024-12-28-13-28-07.jpg">
 </br>
 </br>
 </br>
 </br>
-<img align="center" width="200px" src="https://i.postimg.cc/ZnXkMStM/photo-2024-12-28-13-28-11.jpg"></br>
+<img align="right" width="200px" src="https://i.postimg.cc/ZnXkMStM/photo-2024-12-28-13-28-11.jpg"></br>
 </br>
 </br>
 </br>
