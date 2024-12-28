@@ -14,7 +14,7 @@ Projeto acadêmico desenvolvido por um grupo de amigos, Java foi a linguagem uti
 </br>
 </br>
 </br>
-<img align="right" width="200px" src="https://i.postimg.cc/ZnXkMStM/photo-2024-12-28-13-28-11.jpg"></br>
+<img align="center" width="200px" src="https://i.postimg.cc/ZnXkMStM/photo-2024-12-28-13-28-11.jpg">
 </br>
 </br>
 </br>
@@ -24,7 +24,7 @@ Projeto acadêmico desenvolvido por um grupo de amigos, Java foi a linguagem uti
 </br>
 </br>
 </br>
-<img align="center" width="200px" src="https://i.postimg.cc/0Q2q6n0c/photo-2024-12-28-13-28-17.jpg"></br>
+<img align="center" width="200px" src="https://i.postimg.cc/0Q2q6n0c/photo-2024-12-28-13-28-17.jpg">
 </br>
 </br>
 </br>
