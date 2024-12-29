@@ -2,33 +2,48 @@
 
 
 </br>
-Projeto acadêmico desenvolvido por um grupo de amigos, Java foi a linguagem utilizada para o desenvolvimento do projeto.
+
+### Projeto acadêmico desenvolvido por um grupo de amigos, Java foi a linguagem utilizada para o desenvolvimento do projeto.
+
 </br>
 </br>
 </br>
 </br>
-</br>
+
+## Tela de login
 
 <img align="center" width="500px" src="https://i.postimg.cc/Qt4Zc76s/photo-2024-12-28-13-28-07.jpg">
 </br>
 </br>
 </br>
 </br>
+
+## Tela de opções
+
 <img align="center" width="500px" src="https://i.postimg.cc/ZnXkMStM/photo-2024-12-28-13-28-11.jpg">
 </br>
 </br>
 </br>
 </br>
+
+## Tela de clientes
+
 <img align="center" width="500px" src="https://i.postimg.cc/d3hP60XC/photo-2024-12-28-13-28-14.jpg">
 </br>
 </br>
 </br>
 </br>
+
+## Tela de livros
+
 <img align="center" width="500px" src="https://i.postimg.cc/0Q2q6n0c/photo-2024-12-28-13-28-17.jpg">
 </br>
 </br>
 </br>
 </br>
+
+## Tela de empréstimos 
+
 <img align="left" width="500px" src="https://i.postimg.cc/7LNkYd05/photo-2024-12-28-13-28-20.jpg">
 
 </br>
