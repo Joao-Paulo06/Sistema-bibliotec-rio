@@ -1,4 +1,4 @@
-<h1 align="left">Sistema Bibliotecário</h1>
+# 📚 Atheanaum
 
 
 </br>
@@ -7,6 +7,11 @@
 
 </br>
 </br>
+</br>
+</br>
+
+## Objetivo
+<h3> O principal objetivo do Athenaeum é otimizar o controle da biblioteca, facilitando o gerenciamento de livros, usuários e operações diárias, além de proporcionar eficiência na organização do acervo e no processo de empréstimos e devoluções.</h3>
 </br>
 </br>
 
@@ -66,15 +71,15 @@
 </br>
 </br>
   
-  <h3 align="left">Habilidades principais:</h3>
-  <img align="center" alt="Sistema-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Sistema-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <h2 align="left">Habilidades principais:</h2>
+  <img align="center" alt="Sistema-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sistema-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 
   
-  <h3 align="left">Ferramentas:</h3>
-  <img align="center" alt="Netebeans logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Sistema-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <h2 align="left">Ferramentas:</h2>
+  <img align="center" alt="Netebeans logo" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Sistema-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  
 </div>
 
