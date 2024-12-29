@@ -11,7 +11,7 @@
 </br>
 
 ## Objetivo
-<h3> O principal objetivo do Athenaeum é otimizar o controle da biblioteca, facilitando o gerenciamento de livros, usuários e operações diárias, além de proporcionar eficiência na organização do acervo e no processo de empréstimos e devoluções.</h3>
+<h3> O principal objetivo do Atheanaum é otimizar o controle da biblioteca, facilitando o gerenciamento de livros, usuários e operações diárias, além de proporcionar eficiência na organização do acervo e no processo de empréstimos e devoluções.</h3>
 </br>
 </br>
 
